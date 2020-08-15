@@ -19,7 +19,6 @@
 ///**
 // * MybatisGenerator
 // *
-// * @author hanyang
 // */
 //public class MybatisGenerator {
 //
