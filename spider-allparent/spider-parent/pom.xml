@@ -16,7 +16,7 @@
 	</parent>
 
 	<properties>
-		<spring.version>5.1.4.RELEASE</spring.version>
+		<spring.version>5.2.22.RELEASE</spring.version>
 
 		<junit.version>4.12</junit.version>
 		<jedis.version>2.9.0</jedis.version>
