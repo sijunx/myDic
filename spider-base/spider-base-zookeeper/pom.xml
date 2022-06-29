@@ -15,7 +15,7 @@
     <version>1.0.0-SNAPSHOT</version>
 
     <properties>
-        <zookeeper.version>3.4.8</zookeeper.version>
+        <zookeeper.version>3.4.14</zookeeper.version>
         <zkclient.version>0.8</zkclient.version>
         <spider-base-utils.version>1.0.0-SNAPSHOT</spider-base-utils.version>
 
